@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import {TRANSPARENT_CHIP} from '../identifiers.js';
 import {themr} from 'react-css-themr';
 import classnames from 'classnames';

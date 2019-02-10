@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import {Button} from 'react-toolbox/lib/button';
 import Checkbox from 'react-toolbox/lib/checkbox';
 import {themr} from 'react-css-themr';

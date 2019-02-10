@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import {CardMediaPlus} from '../card-addons';
 import CardActionsHover from '../card-addons/CardActionsHover';
 import {CardActionsSpaced} from '../cardactionsspaced';

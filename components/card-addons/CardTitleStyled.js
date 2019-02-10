@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import {CardTitle} from 'react-toolbox/lib/card';
 import classnames from 'classnames';
 const CardTitleStyled = ({theme, primary, className, ...other}) => {

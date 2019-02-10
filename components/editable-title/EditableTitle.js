@@ -1,4 +1,5 @@
-import React, {PropTypes, Component} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import FontIcon from 'react-toolbox/lib/font_icon';
 import Input from 'react-toolbox/lib/input';
 

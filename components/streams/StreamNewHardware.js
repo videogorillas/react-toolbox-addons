@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import {Card, CardMedia} from 'react-toolbox/lib/card';
 import FontIcon from 'react-toolbox/lib/font_icon';
 import {ICON_ADD, ADD_NEW_HARDWARE, CSS_SCROLL_ITEM} from './constants';

@@ -1,4 +1,5 @@
-import React, {PropTypes, Component} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import {Row, Col} from '../grid';
 import {CardText, CardTitle} from 'react-toolbox/lib/card';
 import {StreamCard} from '../streams/StreamCard';

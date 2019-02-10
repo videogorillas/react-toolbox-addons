@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import classnames from 'classnames';
 import {
     CSS_ROW_CLASS,
@@ -25,7 +26,7 @@ const Row = ({className, children, theme, align, expanded, collapse}) => {
 };
 Row.propTypes = {
     align: PropTypes.oneOf(['right', 'center', 'justify', 'spaced', 'top', 'middle', 'bottom']),
-    children: React.PropTypes.any,
+    children: PropTypes.any,
     className: PropTypes.string,
     collapse: PropTypes.bool,
     expanded: PropTypes.bool,

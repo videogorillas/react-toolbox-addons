@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import {CardMedia} from 'react-toolbox/lib/card';
 import {themr} from 'react-css-themr';
 import {VIDEOPANEL} from '../identifiers';

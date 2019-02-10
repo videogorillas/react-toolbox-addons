@@ -1,4 +1,5 @@
-import React, {PropTypes, Component} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
 import Avatar from 'react-toolbox/lib/avatar';
 import UploaderUtil from '../upload-zone/UploaderUtil';

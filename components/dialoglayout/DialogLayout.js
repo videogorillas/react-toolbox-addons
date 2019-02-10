@@ -1,4 +1,5 @@
-import React, {PropTypes, Children} from 'react';
+import React, {Children} from 'react';
+import PropTypes from 'prop-types';
 import Dialog from 'react-toolbox/lib/dialog';
 import classnames from 'classnames';
 import {Row, Col} from '../grid';

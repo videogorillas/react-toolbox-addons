@@ -8,7 +8,8 @@ const componentPath = Path.join('./components', componentName.toLowerCase());
 const identifiers = './components/identifiers.js';
 const exportList = './components/index.js';
 function makeJs (name) {
-    return `import React, {PropTypes} from 'react';
+    return `import React from 'react';
+import PropTypes from 'prop-types';
     import classnames from 'classnames';
     import {themr} from 'react-css-themr';
     import {${name.toUpperCase()}} from '../identifiers';

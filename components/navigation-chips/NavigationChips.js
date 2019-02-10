@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import {Chip} from 'react-toolbox/lib/chip';
 import {Avatar} from 'react-toolbox/lib/avatar';
 import {Row, Col} from '../../lib/grid';

@@ -1,4 +1,5 @@
-import React, {PropTypes, Component} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import classnames from 'classnames';
 import {CardTitleButtons} from '../card-addons/index';
 import {NavDrawer, AppBar} from 'react-toolbox';

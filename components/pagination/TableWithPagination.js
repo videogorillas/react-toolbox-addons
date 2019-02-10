@@ -1,4 +1,5 @@
-import React, {PropTypes, Component} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import Table from 'react-toolbox/lib/table';
 import DropDown from 'react-toolbox/lib/dropdown';
 import classnames from 'classnames';

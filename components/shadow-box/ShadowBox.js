@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import {SHADOW_BOX} from '../identifiers.js';
 
 const ShadowBox = ({theme, children}) => {
