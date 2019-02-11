@@ -2,7 +2,7 @@
   "name": "react-toolbox-addons",
   "description": "",
   "homepage": "https://github.com/zhukovka/react-toolbox-addons#readme",
-  "version": "react16-1.1.240",
+  "version": "1.1.240-r16",
   "main": "./lib",
   "author": "",
   "repository": {
@@ -25,7 +25,7 @@
     "core-js": "^2.4.0",
     "immutability-helper": "^2.0.0",
     "normalize.css": "^4.2.0",
-    "prop-types": "15.6.2",
+    "prop-types": "^15.7.1",
     "react": "16.6.0",
     "react-addons-css-transition-group": "*",
     "react-addons-update": "*",
